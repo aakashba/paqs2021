@@ -75,4 +75,4 @@ There are additional activations inside the activations directory with text file
 ```
 time python3 my_get_activations.py /qadatasetKstudy/outdir/models/x.h5 /qadatasetKstudy/outdir/models/y.h5 --fid=zzz
 ```
-Here x replaced one epoch model while y replaces the other. You may pass the same epoch to both as this script was built for comparison purposes. 
+Here x replaced one epoch model while y replaces the other. You may pass the same epoch to both as this script was built for comparison purposes. The activations are saved as pdf and matrices inside qadatasetKstudy/outdir/viz and can be identified using the fid, and epoch number fed to the script above.
