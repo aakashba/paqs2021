@@ -46,7 +46,7 @@ You can also repurpose the prediction script to predict using user provided ques
 
 ## Stage 3 - User Study Data
 The data aquired by the user study monitored by us is available in raw text format in ftagged.txt
-The format is as follows :-
+The format :
 ```
 User: Subject1
 Function: fid#
