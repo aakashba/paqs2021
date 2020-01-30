@@ -65,7 +65,7 @@ Grades 'p' are placeholder for prompts rated by study participants are  as
 ```
 sa = strongly agree | a = agree | sd = strongly disagree | d = disagree | u = unsure/neutral/cannot decide
 ```
-The interface can be found as the link below to be accessed and tested freely, please up using your email id and log into the interface, after you sign in, there is a walkthrough with instructions to use the interface. First page has the interactive chat as well as prompts on the left side that requires 3 answers. After submission of these answers you would rate each interaction with our system. This does run on a local gpu for prediction, so if it doesn't connect to server, it maybe initializing, we suggest closing the browser and trying again :
+The interface can be found as the link below to be accessed and tested freely, please up using your email id and log into the interface, after you sign in, there is a walkthrough with instructions to use the interface. First page has the interactive chat as well as prompts on the left side that requires 3 answers. After submission of these answers you would rate each interaction with our system. This does run on a local gpu for prediction with a sleep timer. If it doesn't connect to server, it maybe initializing and we suggest closing the browser and trying again :
 
  http://paqsui-anonymous.herokuapp.com/
  
