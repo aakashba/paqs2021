@@ -12,9 +12,9 @@ The data was then processed in qasynth.py file using the following datasets :
 3. set of paraphrases written to serve as tempelate for questions - questions.pkl 
 
 Due to github data limations the dataset with these data files processed in the python scripts can be found here :
-```
+
 https://drive.google.com/open?id=1TPN8nft_OHvkg3jKMBfA-1ahd6cdMAGG
-```
+
 after downloading the dataset zip, unzip it, all the python files are also included in the folder paqs2020. To recreate the datset synthesized in qasynth.py just run 
 
 ```
